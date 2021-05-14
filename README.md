@@ -157,7 +157,6 @@ Available search engines:
 + Duckduckgo
 + Yahoo
 + Google
-+ Bing
 
 #### Customizing available search engines
 
@@ -187,25 +186,7 @@ There are two clock modes available - `24-hour` and `12-hour`. Switch between cl
 
 ### TODOs
 
-Squareup will sit between minimal and bloated. The items in this TODO list are the only one I'm planning to implement in this homepage.
-
-- [x] Search engine switching
-- [x] Autosuggestion
-- [x] Categorized Web Menu
-
-
-### Issues? 
-
-Feel free to open one!
-
-### PR?
-
-That would be great!
-
-### Other works
-
-Check my other works related to this startpage.
-
-+ [blurredfox](https://github.com/manilarome/blurredfox/) - a gorgeous and modern firefox CSS theme.
-+ [the-glorious-startpage](https://github.com/manilarome/the-glorious-startpage) - my very first startpage. Kinda bloaty and code is quite messy but still kinda works and looks gorgeous.
-+ [the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) - a stash of my configurations.
+- [ ] Search engine switching
+- [ ] Autosuggestion
+- [ ] Categorized Web Menu
+- [ ] More FOSS Applications
